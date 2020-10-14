@@ -32,7 +32,7 @@ _Themecreator coming soon_
 * 0.0.1 beta
     * _Work in progress_
     * ✔ Discord RichPresence (using pypresence)
-    * ✔ Languages (English, German, Türkiye, Tigrinya, Amharic) help us to translate more languages view more [here](https://github.com/philliphqs/Safey/tree/main/languages/README.md)
+    * ✔ Languages (English, German, Türkiye, Tigrinya, Amharic) help us to translate languages view more [here](https://github.com/philliphqs/Safey/tree/main/languages/README.md)
     * ✔ Themes
     * ❌ Themecreator
     * ❌ Chatting (because there is no ability to call [Dear PyGui] functions from other threads)
