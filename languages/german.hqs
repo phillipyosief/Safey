@@ -1,0 +1,120 @@
+{
+  "buttons": {
+    "nav": {
+      "settings": "Einstellungen",
+      "about": "Ueber",
+      "tutorial": "Anleitung",
+      "q&a": "Q&A",
+      "discord": "Discord",
+      "errorcodes": "Fehlercodes"
+    },
+    "windows": {
+      "discord": {
+        "join_hqsartworks": "Join hqsartworks",
+        "join_alphaclan": "Join Alphaclan community"
+      },
+      "settings": {
+        "design": {
+          "theme": "Theme",
+          "language": "Sprache"
+        },
+        "close": "Schliessen",
+        "save": "Speichern",
+        "chat": {
+          "username": "Nutzername",
+          "profile_description": "Profil beschreibung"
+        }
+      },
+      "about": {
+        "github_repo": "GitHub Repositorie",
+        "website": "Website",
+        "discord": "Discord"
+      }
+
+    }
+  },
+  "windows": {
+    "tutorial": {
+      "title": "Anleitung",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    },
+    "discord": {
+      "description": "Falls du hilfe benoetigst joine dem hqsartworks Discord und kriege hilfe\nvon anderen Mitgliedern vom Server."
+    },
+    "about": {
+      "description": "Safey ist ein komplett anonymer chat.\n\n\n\n\n"
+    },
+    "q&a": {
+      "description": "The most asked questions for Safey"
+    }
+  },
+  "text": {
+    "about": {
+        "text": ""
+      },
+    "tutorial": {
+        "text": ""
+    },
+    "q&a": {
+      "1": {
+        "question": "F: Wie update ich Safey?",
+        "answer": "A: Momentan gibt es keinen Safey updater.\nMan muss Safey manuell von der Website installieren."
+      },
+      "2": {
+        "question": "F: Mir wird angezeigt das ich eine inoffizielle version habe",
+        "answer": "A: Falls dir diese Fehlermeldung angezeigt wird dann\nsolltest du am besten Safey neu installieren, weil du hoechst wahrscheinlich\neine inoffizielle Version hast oder wichtige Dateien fehlen! "
+      }
+    },
+    "discord": {
+      "text": "Falls du Hilfe benoetigst joine dem Safey Discord und lass\ndir von unserer Community helfen."
+    }
+
+  },
+  "main": {
+    "listedserver": {
+      "title": "Oeffentliche Server",
+      "connect": "Verbinden",
+      "connect_with_server": "Verbinden"
+    },
+    "chat": {
+      "send": "Senden",
+      "message": "Nachricht"
+    },
+    "serverinfo": "Serverinfo: "
+  },
+  "errorcodes": {
+    "exit": "Schließen",
+    "description": "Beschreibung",
+    "languages": {
+      "title": "Sprachfehler",
+      "l0000": "Die Sprache konnte nicht gefunden werden bzw. existiert nicht.\nError: l0000",
+      "l0001": "Die Sprachdatei kann nicht geoeffnet werden\nbzw. wurde nicht korrekt geschrieben\nError: l0001",
+      "l0002": "Die Sprachdatei kann aufgrund fehlender Rechte nicht geoeffnet werden\nStarte das Programm als Administrator."
+    },
+    "themes": {
+      "title": "Themefehler",
+      "t0000": "Das Theme von Safey konnte nicht angezeigt werden bzw. gibt es gar nicht.\nError: t0000"
+    },
+    "chat": {
+      "title": "Chatfehler",
+      "c0000": "Dieser Server konnte nicht gefunden werden bzw. existiert nicht.\nError: c0000",
+      "c0001": "Auf diesem Server wurde noch kein Safey eingerichtet.\nError: c0001",
+      "c0002": "Derzeit ist keine Internetverbindung verfuegbar.\nError: c0002"
+    }
+    },
+  "errors": {
+    "warning": "Warnung:",
+    "unsaved_changes": {
+      "description": "Deine AEnderungen wurden noch nicht gespeichert! Klicke auf 'Speichern' um deine Aenderungen\n zu speichern.",
+      "save": "Speichern",
+      "ignore": "Ignorieren"
+    },
+    "error": "Fehler:",
+    "security_alert": {
+      "title": "Sicherheits Fehler:",
+      "description": "Ihre Safey Version ist moeglicherweise eine inoffizielle Version\noder es fehlen wichtige Dateien fuer Safey!\nKlicken sie auf 'Installieren' um die offizielle Version von Safey zu installieren.",
+      "install": "Installieren",
+      "ignore": "Ignorieren"
+    }
+  }
+}

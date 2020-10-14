@@ -1,0 +1,120 @@
+{
+  "buttons": {
+    "nav": {
+      "settings": "Ayarlar",
+      "about": "hakkında",
+      "tutorial": "Manuel",
+      "q&a": "Q&A",
+      "discord": "Discord",
+      "errorcodes": "Hata kodları"
+    },
+    "windows": {
+      "discord": {
+        "join_hqsartworks": "Join hqsartworks",
+        "join_alphaclan": "Join Alphaclan community"
+      },
+      "settings": {
+        "design": {
+          "theme": "Theme",
+          "language": "dil"
+        },
+        "close": "Kapat",
+        "save": "kaydetmek",
+        "chat": {
+          "username": "Kullanıcı adı",
+          "profile_description": "Profil açıklaması"
+        }
+      },
+      "about": {
+        "github_repo": "GitHub deposu",
+        "website": "Website",
+        "discord": "Discord"
+      }
+
+    }
+  },
+  "windows": {
+    "tutorial": {
+      "title": "Manuel",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    },
+    "discord": {
+      "description": "Yardıma ihtiyacınız varsa hqsartworks Discord'a katılın ve yardım alın\nsunucunun diğer üyelerinden."
+    },
+    "about": {
+      "description": "Safey tamamen anonim bir sohbettir.\n\n\n\n\n"
+    },
+    "q&a": {
+      "description": "Safey için en sık sorulan sorular"
+    }
+  },
+  "text": {
+    "about": {
+        "text": ""
+      },
+    "tutorial": {
+        "text": ""
+    },
+    "q&a": {
+      "1": {
+        "question": "S: Safey'i nasıl güncellerim?",
+        "answer": "C: Şu anda Güvenli güncelleyici yok.\nSafey'i web sitesinden manuel olarak yüklemelisiniz."
+      },
+      "2": {
+        "question": "S: Resmi olmayan bir versiyonum olduğu gösterildi",
+        "answer": "C: Bu hata mesajını alırsanız\nEn iyi bahsiniz, Safey'i yeniden yüklemektir çünkü muhtemelen öyle düşünüyorsunuz\nresmi olmayan bir sürüme sahip veya önemli dosyalar eksik!"
+      }
+    },
+    "discord": {
+      "text": "Yardıma ihtiyacınız olursa Safey Discord'a katılın ve\nopluluğumuzdan size yardımcı olur."
+    }
+
+  },
+  "main": {
+    "listedserver": {
+      "title": "Genel sunucular",
+      "connect": "Bağlan",
+      "connect_with_server": "Bağlan"
+    },
+    "chat": {
+      "send": "Gönder",
+      "message": "İleti"
+    },
+    "serverinfo": "Sunucu bilgisi:"
+  },
+  "errorcodes": {
+    "exit": "Kapat",
+    "description": "açıklama",
+    "languages": {
+      "title": "Konuşma bozukluğu",
+      "l0000": "sırasıylaDil bulunamadı veya mevcut değil.sırasıyla\nHata: l0000",
+      "l0001": "Dil dosyası açılamaz\nveya doğru yazılmadı\nHata: l0001",
+      "l0002": "Hak eksikliği nedeniyle dil dosyası açılamıyor\nProgramı yönetici olarak başlatın.\nHata: l0002"
+    },
+    "themes": {
+      "title": "Theme Hata",
+      "t0000": "Safey teması görüntülenemedi veya hiç mevcut değil.\nHata: t0000"
+    },
+    "chat": {
+      "title": "Sohbet hatası",
+      "c0000": "Bu sunucu bulunamadı veya mevcut değil.\nHata: c0000",
+      "c0001": "Safey henüz bu sunucuda kurulmadı.\nHata: c0001",
+      "c0002": "Şu anda internet bağlantısı yok.\nHata: c0002"
+    }
+    },
+  "errors": {
+    "warning": "uyarı:",
+    "unsaved_changes": {
+      "description": "Değişiklikleriniz henüz kaydedilmedi! Değişikliklerinizi yapmak için \"Kaydet\" i tıklayın\n kayıt etmek.",
+      "save": "kaydetmek",
+      "ignore": "Yoksaymak"
+    },
+    "error": "Hata:",
+    "security_alert": {
+      "title": "Güvenlik hatası:",
+      "description": "Güvenli Sürümünüz resmi olmayan bir sürüm olabilir\nveya Safey için önemli dosyalar eksik! Safey'in resmi sürümünü yüklemek için 'Yükle'ye tıklayın.",
+      "install": "Yüklemek",
+      "ignore": "Yoksaymak"
+    }
+  }
+}

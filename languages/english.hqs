@@ -1,0 +1,122 @@
+{
+  "buttons": {
+    "nav": {
+      "settings": "Settings",
+      "about": "About",
+      "tutorial": "Tutorial",
+      "q&a": "Q&A",
+      "discord": "Discord",
+      "errorcodes": "Errorcodes"
+    },
+    "windows": {
+      "discord": {
+        "join_hqsartworks": "Join hqsartworks",
+        "join_alphaclan": "Join Alphaclan community"
+      },
+      "settings": {
+        "design": {
+          "theme": "Theme",
+          "language": "Language"
+        },
+        "close": "Close",
+        "save": "Save",
+        "chat": {
+          "username": "Username",
+          "profile_description": "Profiledescription"
+        }
+      },
+      "about": {
+        "github_repo": "GitHub Repository",
+        "website": "Website",
+        "discord": "Discord"
+      }
+
+    }
+  },
+  "windows": {
+    "tutorial": {
+      "title": "Tutorial",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    },
+    "discord": {
+      "description": "If you need help join the hqsartworks Discord and get help\n from other users."
+    },
+    "about": {
+      "description": "Safey is a complete anonymous chat application.\n\n\n\n\n"
+    },
+    "q&a": {
+      "description": "The most asked questions for Safey"
+    }
+  },
+  "text": {
+    "about": {
+        "text": ""
+      },
+    "tutorial": {
+        "text": ""
+    },
+    "q&a": {
+      "1": {
+        "question": "Q: How to update Safey?",
+        "answer": "A: Currently there is no updater for Safey.\nYou need to install the newest version from the website."
+      },
+      "2": {
+        "question": "Q: I get the info that i have a nonofficial version of Safey?",
+        "answer": "A: If you get this info you should delete Safey and install it again, because you have a nonofficial version\nor important files are deleted! "
+      }
+    },
+    "discord": {
+      "text": "If you need help join the hqsartworks Discord and get help from\nour community."
+    }
+
+  },
+  "main": {
+    "listedserver": {
+      "title": "Public server",
+      "connect": "Connect",
+      "connect_with_server": "Connect"
+    },
+    "chat": {
+      "send": "Send",
+      "message": "Message"
+    },
+    "serverinfo": "Serverinfo: "
+  },
+  "errorcodes": {
+    "exit": "Exit",
+    "description": "Description",
+    "languages": {
+      "title": "Languageerror",
+      "l0000": "Can't find this language maybe the language file doesn't exist.\nError: l0000",
+      "l0001": "Can't open the language file maybe the file wasn't written correctly.\nError: l0001",
+      "l0002": "Doesn't have the permission to open the language file.\nTry to run the application as administrator."
+    },
+    "themes": {
+      "title": "Themeerror",
+      "t0000": "Can't show that theme or it doesnt exist.\nError: t0000"
+    },
+    "chat": {
+      "title": "Chaterror",
+      "c0000": "Can't find this server maybe it doesn't exist.\nError: c0000",
+      "c0001": "This server doesn't have Safey.\nError: c0001",
+      "c0002": "No internet connection available.\nError: c0002"
+    }
+    },
+  "errors": {
+    "warning": "Warning:",
+    "unsaved_changes": {
+      "description": "Your changes wasn't saved! Click on 'Save' to save your change.",
+      "save": "Save",
+      "ignore": "Ignore"
+    },
+    "error": "Error:",
+    "security_alert": {
+      "title": "Securityerror:",
+      "description": "Maybe your Safey version is a nonofficial version or important files are deleted!\nClick on 'Install' to get the official version of Safey.",
+      "install": "Install",
+      "ignore": "Ignore"
+    }
+
+  }
+
+}
