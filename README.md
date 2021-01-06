@@ -11,7 +11,7 @@ Chat with your friends in chatrooms or create your own chatroom and create your 
 
 ## Installation
 
-OS X & Linux & Linux:
+OS X & Linux & Windows:
 
 ```sh
 pip install -r requirements.txt
